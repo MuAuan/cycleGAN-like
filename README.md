@@ -5,8 +5,11 @@ A ⇒ G(Dx) ⇒ B ⇒ F(Dy)　⇒ A'
 The same Generator & Discriminator are used in this program
 
 G∗,F∗ = argmin max L(G,F,Dx,Dy ).
+
            G,F Dx,Dy
+
 F=G, Dx=Dy
+
 F*=G*
 
 Therfore,
