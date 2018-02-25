@@ -9,5 +9,6 @@ The same Generator & Discriminator are used in this program
     F=G, Dx=Dy
     F*=G*
 Therfore,
+
     A ⇒ Generator(pix2pix(encoder-decoder_type)) ⇒ B ⇒ Generator(pix2pix(encoder-decoder_type))　⇒ A'
 
